@@ -27,7 +27,7 @@ This project involves developing a simple API using a preferred programming lang
 
 3. run the project
    locally: node index.js
-   live: endpoint1(http://51.21.251.240:5005/subjects) && endpoint2(http://51.21.251.240:5005/students)
+   live: endpoint1(http://13.61.17.71:5000/subjects) && endpoint2(http://13.61.17.71:5000/students)
 ## Understand Backup Schemes
 
 - Full Backup: Backs up the entire system. Easy to restore. Takes more space and time.
